@@ -8,6 +8,7 @@ public class App {
 
         Scanner sc = new Scanner(System.in);
 
+
         int wiseSayingLastId = 0;
 
         outer:
